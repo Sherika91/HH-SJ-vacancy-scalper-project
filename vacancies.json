@@ -165,6 +165,17 @@
     "currency": "RUR"
   },
   {
+    "id": "91592970",
+    "title": "Специалист по тестированию программного обеспечения",
+    "area": "Санкт-Петербург",
+    "employer": "СевенТест, НТЦ",
+    "url": "https://hh.ru/vacancy/91592970",
+    "requirement": "Навыки работы с SQL. - Базовые знания Docker, <highlighttext>Python</highlighttext>. - Ответственность и порядочность. - Стремление развиваться и развивать. - Умение решать задачи быстро и...",
+    "salary_from": 70000,
+    "salary_to": 100000,
+    "currency": "RUR"
+  },
+  {
     "id": "91911176",
     "title": "Тестировщик ПО",
     "area": "Москва",
@@ -176,15 +187,15 @@
     "currency": "Not specified"
   },
   {
-    "id": "91592970",
-    "title": "Специалист по тестированию программного обеспечения",
-    "area": "Санкт-Петербург",
-    "employer": "СевенТест, НТЦ",
-    "url": "https://hh.ru/vacancy/91592970",
-    "requirement": "Навыки работы с SQL. - Базовые знания Docker, <highlighttext>Python</highlighttext>. - Ответственность и порядочность. - Стремление развиваться и развивать. - Умение решать задачи быстро и...",
-    "salary_from": 70000,
-    "salary_to": 100000,
-    "currency": "RUR"
+    "id": "90947346",
+    "title": "Junior Data Scientist",
+    "area": "Москва",
+    "employer": "Бюро кредитных историй Скоринг Бюро",
+    "url": "https://hh.ru/vacancy/90947346",
+    "requirement": "Желание разбираться в данных. Опыт аналитической работы с использованием языка <highlighttext>Python</highlighttext>\\SAS. Знание ML. Знание PL/SQL, опыт работы с...",
+    "salary_from": 0,
+    "salary_to": 0,
+    "currency": "Not specified"
   },
   {
     "id": "91925530",
@@ -204,17 +215,6 @@
     "employer": "Банк ДОМ.РФ",
     "url": "https://hh.ru/vacancy/91946800",
     "requirement": "Опыт промышленной разработки на <highlighttext>Python</highlighttext>. Владение Django, DRF, PostgreSQL. Опыт работы с тестовыми фреймворками (unittest, pytest). Опыт работы с Linux...",
-    "salary_from": 0,
-    "salary_to": 0,
-    "currency": "Not specified"
-  },
-  {
-    "id": "90947346",
-    "title": "Junior Data Scientist",
-    "area": "Москва",
-    "employer": "Бюро кредитных историй Скоринг Бюро",
-    "url": "https://hh.ru/vacancy/90947346",
-    "requirement": "Желание разбираться в данных. Опыт аналитической работы с использованием языка <highlighttext>Python</highlighttext>\\SAS. Знание ML. Знание PL/SQL, опыт работы с...",
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
@@ -253,17 +253,6 @@
     "currency": "Not specified"
   },
   {
-    "id": "91946943",
-    "title": "Data Analyst",
-    "area": "Ташкент",
-    "employer": "Wanted",
-    "url": "https://hh.ru/vacancy/91946943",
-    "requirement": "Есть опыт визуализации данных, создания информационных панелей (в Excel/<highlighttext>Python</highlighttext>/Tableau). Продвинутый уровень владения английским или русским языками. ",
-    "salary_from": null,
-    "salary_to": 4000,
-    "currency": "USD"
-  },
-  {
     "id": "90903115",
     "title": "Ведущий аналитик Отдела оперативной аналитики",
     "area": "Москва",
@@ -284,6 +273,17 @@
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
+  },
+  {
+    "id": "91946943",
+    "title": "Data Analyst",
+    "area": "Ташкент",
+    "employer": "Wanted",
+    "url": "https://hh.ru/vacancy/91946943",
+    "requirement": "Есть опыт визуализации данных, создания информационных панелей (в Excel/<highlighttext>Python</highlighttext>/Tableau). Продвинутый уровень владения английским или русским языками. ",
+    "salary_from": null,
+    "salary_to": 4000,
+    "currency": "USD"
   },
   {
     "id": "91676478",
@@ -319,17 +319,6 @@
     "currency": "KZT"
   },
   {
-    "id": "91946314",
-    "title": "Научный аналитик",
-    "area": "Москва",
-    "employer": "Вызов",
-    "url": "https://hh.ru/vacancy/91946314",
-    "requirement": "Опыт работы с программными средствами для анализа данных (R, <highlighttext>Python</highlighttext>, SPSS и т.д.). Отличные коммуникативные навыки. Знание английского языка...",
-    "salary_from": 130000,
-    "salary_to": 180000,
-    "currency": "RUR"
-  },
-  {
     "id": "91666161",
     "title": "Junior Backend Developer",
     "area": "Тольятти",
@@ -350,6 +339,17 @@
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
+  },
+  {
+    "id": "91946314",
+    "title": "Научный аналитик",
+    "area": "Москва",
+    "employer": "Вызов",
+    "url": "https://hh.ru/vacancy/91946314",
+    "requirement": "Опыт работы с программными средствами для анализа данных (R, <highlighttext>Python</highlighttext>, SPSS и т.д.). Отличные коммуникативные навыки. Знание английского языка...",
+    "salary_from": 130000,
+    "salary_to": 180000,
+    "currency": "RUR"
   },
   {
     "id": "91634288",
@@ -374,17 +374,6 @@
     "currency": "Not specified"
   },
   {
-    "id": "91934861",
-    "title": "Веб-разработчик",
-    "area": "Москва",
-    "employer": "ZAK-DIGITAL.AGENCY (ИП Скориченко Лиана Сергеевна)",
-    "url": "https://hh.ru/vacancy/91934861",
-    "requirement": "Знание JavaScript, HTML, CSS; опыт работы с фреймворками типа React, Vue.js или Angular. Владение <highlighttext>Python</highlighttext> и опыт работы с бэкенд...",
-    "salary_from": 60000,
-    "salary_to": 120000,
-    "currency": "RUR"
-  },
-  {
     "id": "91623159",
     "title": "Начальник отдела технического администрирования и поддержки",
     "area": "Москва",
@@ -396,15 +385,15 @@
     "currency": "Not specified"
   },
   {
-    "id": "91670622",
+    "id": "91934861",
     "title": "Веб-разработчик",
-    "area": "Минск",
-    "employer": "РОКИ МЕДИА",
-    "url": "https://hh.ru/vacancy/91670622",
-    "requirement": "Знания PHP, MySQL, JavaScript. Практический опыт работы с Wordpress, Bitrix, OpenCart, MODX. Базовые знания HTML, CSS. Навыки чтения чужого кода. ",
-    "salary_from": 1000,
-    "salary_to": 4000,
-    "currency": "BYR"
+    "area": "Москва",
+    "employer": "ZAK-DIGITAL.AGENCY (ИП Скориченко Лиана Сергеевна)",
+    "url": "https://hh.ru/vacancy/91934861",
+    "requirement": "Знание JavaScript, HTML, CSS; опыт работы с фреймворками типа React, Vue.js или Angular. Владение <highlighttext>Python</highlighttext> и опыт работы с бэкенд...",
+    "salary_from": 60000,
+    "salary_to": 120000,
+    "currency": "RUR"
   },
   {
     "id": "91746699",
@@ -429,15 +418,15 @@
     "currency": "RUR"
   },
   {
-    "id": "91794963",
-    "title": "Младший программист Python",
-    "area": "Обнинск",
-    "employer": "Базальт СПО",
-    "url": "https://hh.ru/vacancy/91794963",
-    "requirement": "Знание и опыт разработки - <highlighttext>Python</highlighttext>, Flask или подобный фреймворк. Знание основ реляционных СУБД, оптимизации SQL запросов, принципов ООП. ",
-    "salary_from": 0,
-    "salary_to": 0,
-    "currency": "Not specified"
+    "id": "91670622",
+    "title": "Веб-разработчик",
+    "area": "Минск",
+    "employer": "РОКИ МЕДИА",
+    "url": "https://hh.ru/vacancy/91670622",
+    "requirement": "Знания PHP, MySQL, JavaScript. Практический опыт работы с Wordpress, Bitrix, OpenCart, MODX. Базовые знания HTML, CSS. Навыки чтения чужого кода. ",
+    "salary_from": 1000,
+    "salary_to": 4000,
+    "currency": "BYR"
   },
   {
     "id": "91580174",
@@ -451,6 +440,17 @@
     "currency": "RUR"
   },
   {
+    "id": "91898918",
+    "title": "Стажер дата-аналитик",
+    "area": "Ростов-на-Дону",
+    "employer": "Tele2",
+    "url": "https://hh.ru/vacancy/91898918",
+    "requirement": "Отличное знание SQL. <highlighttext>Python</highlighttext> (pandas, sklearn, xgboost, lightgbm, matplotlib etc.). Глубокое понимание алгоритмов машинного обучения и опыт их применения в...",
+    "salary_from": 0,
+    "salary_to": 0,
+    "currency": "Not specified"
+  },
+  {
     "id": "91902358",
     "title": "Программист-тестировщик",
     "area": "Москва",
@@ -462,12 +462,12 @@
     "currency": "RUR"
   },
   {
-    "id": "91898918",
-    "title": "Стажер дата-аналитик",
-    "area": "Ростов-на-Дону",
-    "employer": "Tele2",
-    "url": "https://hh.ru/vacancy/91898918",
-    "requirement": "Отличное знание SQL. <highlighttext>Python</highlighttext> (pandas, sklearn, xgboost, lightgbm, matplotlib etc.). Глубокое понимание алгоритмов машинного обучения и опыт их применения в...",
+    "id": "91794963",
+    "title": "Младший программист Python",
+    "area": "Обнинск",
+    "employer": "Базальт СПО",
+    "url": "https://hh.ru/vacancy/91794963",
+    "requirement": "Знание и опыт разработки - <highlighttext>Python</highlighttext>, Flask или подобный фреймворк. Знание основ реляционных СУБД, оптимизации SQL запросов, принципов ООП. ",
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
@@ -495,6 +495,17 @@
     "currency": "Not specified"
   },
   {
+    "id": "91620172",
+    "title": "Backend-разработчик Python",
+    "area": "Москва",
+    "employer": "Spider Group",
+    "url": "https://hh.ru/vacancy/91620172",
+    "requirement": "Коммерческий опыт программирования на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с Django. Опыт работы с облачными сервисами(AWS, Google, Yandex...",
+    "salary_from": null,
+    "salary_to": 160000,
+    "currency": "RUR"
+  },
+  {
     "id": "90982035",
     "title": "Верстальщик (удаленно)",
     "area": "Краснодар",
@@ -517,15 +528,15 @@
     "currency": "Not specified"
   },
   {
-    "id": "91620172",
-    "title": "Backend-разработчик Python",
+    "id": "91718882",
+    "title": "Python-разработчик",
     "area": "Москва",
-    "employer": "Spider Group",
-    "url": "https://hh.ru/vacancy/91620172",
-    "requirement": "Коммерческий опыт программирования на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с Django. Опыт работы с облачными сервисами(AWS, Google, Yandex...",
-    "salary_from": null,
-    "salary_to": 160000,
-    "currency": "RUR"
+    "employer": "Ред Софт",
+    "url": "https://hh.ru/vacancy/91718882",
+    "requirement": "Знание <highlighttext>Python</highlighttext> и коммерческий опыт работы от 1 года. Опыт работы с GNU/Linux. Опыт разработки прикладного ПО. ",
+    "salary_from": 0,
+    "salary_to": 0,
+    "currency": "Not specified"
   },
   {
     "id": "91381771",
@@ -534,17 +545,6 @@
     "employer": "вДоступе",
     "url": "https://hh.ru/vacancy/91381771",
     "requirement": "Технический ​бэкграунд​. Понимание ​основ​ ​<highlighttext>Python</highlighttext>​ ​и​ ​экосистемы​ ​<highlighttext>Python</highlighttext>​. Работа на фреймворке Django или SQLAlchemy. Понимание, ​как​ ​взаимодействуют​ ​RESTful​ ​сервисы​. ",
-    "salary_from": 0,
-    "salary_to": 0,
-    "currency": "Not specified"
-  },
-  {
-    "id": "91718882",
-    "title": "Python-разработчик",
-    "area": "Москва",
-    "employer": "Ред Софт",
-    "url": "https://hh.ru/vacancy/91718882",
-    "requirement": "Знание <highlighttext>Python</highlighttext> и коммерческий опыт работы от 1 года. Опыт работы с GNU/Linux. Опыт разработки прикладного ПО. ",
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
@@ -638,6 +638,17 @@
     "currency": "RUR"
   },
   {
+    "id": "91741948",
+    "title": "Python-разработчик",
+    "area": "Москва",
+    "employer": "РАСЧЕТНЫЕ РЕШЕНИЯ",
+    "url": "https://hh.ru/vacancy/91741948",
+    "requirement": "Умение читать и понимать чужой код. Опыт разработки на <highlighttext>Python</highlighttext> (Django, DRF, Aiohttp) от 2-х лет. Знание Postgresql, Redis. ",
+    "salary_from": 0,
+    "salary_to": 0,
+    "currency": "Not specified"
+  },
+  {
     "id": "91822058",
     "title": "Python разработчик",
     "area": "Москва",
@@ -646,6 +657,17 @@
     "requirement": "Имеешь опыт продуктовой разработки от 2 лет на <highlighttext>python</highlighttext>. Знаешь django, drf, celery, redis. Имеешь понимание и опыт с ООП. ",
     "salary_from": 180000,
     "salary_to": 280000,
+    "currency": "RUR"
+  },
+  {
+    "id": "91928849",
+    "title": "Аналитик данных",
+    "area": "Москва",
+    "employer": "СИНЕРГИЯ",
+    "url": "https://hh.ru/vacancy/91928849",
+    "requirement": "Аналогичный опыт работы приветствуется. Хорошие знания TSQL и Power Query. Аналитические способности, а так же опыт самостоятельного прогаммирования. ",
+    "salary_from": 60000,
+    "salary_to": 60000,
     "currency": "RUR"
   },
   {
@@ -658,28 +680,6 @@
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
-  },
-  {
-    "id": "91741948",
-    "title": "Python-разработчик",
-    "area": "Москва",
-    "employer": "РАСЧЕТНЫЕ РЕШЕНИЯ",
-    "url": "https://hh.ru/vacancy/91741948",
-    "requirement": "Умение читать и понимать чужой код. Опыт разработки на <highlighttext>Python</highlighttext> (Django, DRF, Aiohttp) от 2-х лет. Знание Postgresql, Redis. ",
-    "salary_from": 0,
-    "salary_to": 0,
-    "currency": "Not specified"
-  },
-  {
-    "id": "91928849",
-    "title": "Аналитик данных",
-    "area": "Москва",
-    "employer": "СИНЕРГИЯ",
-    "url": "https://hh.ru/vacancy/91928849",
-    "requirement": "Аналогичный опыт работы приветствуется. Хорошие знания TSQL и Power Query. Аналитические способности, а так же опыт самостоятельного прогаммирования. ",
-    "salary_from": 60000,
-    "salary_to": 60000,
-    "currency": "RUR"
   },
   {
     "id": "91568012",
@@ -737,28 +737,6 @@
     "currency": "Not specified"
   },
   {
-    "id": "91938116",
-    "title": "Стажер-программист Python",
-    "area": "Электросталь",
-    "employer": "Ассигна",
-    "url": "https://hh.ru/vacancy/91938116",
-    "requirement": "Опыт программирования на <highlighttext>Python</highlighttext> (backend + frontend). Опыт использования фреймворков Django, Flask. Опыт использования библиотек SQLAlchemy, Beautiful Soup. ",
-    "salary_from": 40000,
-    "salary_to": null,
-    "currency": "RUR"
-  },
-  {
-    "id": "91951976",
-    "title": "Тестировщик ПО",
-    "area": "Москва",
-    "employer": "Пассворк",
-    "url": "https://hh.ru/vacancy/91951976",
-    "requirement": "Знание операционной системы Linux. Опыт работы с MongoDB. Опыт автоматизации на <highlighttext>Python</highlighttext> с использованием Selenium WebDriver. Опыт работы с CI...",
-    "salary_from": 90000,
-    "salary_to": null,
-    "currency": "RUR"
-  },
-  {
     "id": "91805669",
     "title": "Тестировщик",
     "area": "Москва",
@@ -767,6 +745,17 @@
     "requirement": "Выбирать методы и инструменты тестирования. Есть опыт тестирования Web-приложений и АPI. Хорошо знаешь и понимаешь техники тест-дизайна.",
     "salary_from": null,
     "salary_to": 356000,
+    "currency": "RUR"
+  },
+  {
+    "id": "91343218",
+    "title": "Программист Python (Junior)",
+    "area": "Уфа",
+    "employer": "Уфанет",
+    "url": "https://hh.ru/vacancy/91343218",
+    "requirement": "Знание <highlighttext>Python</highlighttext>, понимание ООП. Знание основных шаблонов проектирования, алгоритмов и структур данных. Знание SQL и практический опыт работы с реляционными...",
+    "salary_from": 60000,
+    "salary_to": 80000,
     "currency": "RUR"
   },
   {
@@ -792,26 +781,15 @@
     "currency": "Not specified"
   },
   {
-    "id": "91343218",
-    "title": "Программист Python (Junior)",
-    "area": "Уфа",
-    "employer": "Уфанет",
-    "url": "https://hh.ru/vacancy/91343218",
-    "requirement": "Знание <highlighttext>Python</highlighttext>, понимание ООП. Знание основных шаблонов проектирования, алгоритмов и структур данных. Знание SQL и практический опыт работы с реляционными...",
-    "salary_from": 60000,
-    "salary_to": 80000,
-    "currency": "RUR"
-  },
-  {
-    "id": "91870295",
-    "title": "Python Developer",
+    "id": "91951976",
+    "title": "Тестировщик ПО",
     "area": "Москва",
-    "employer": "Сибериан.Про",
-    "url": "https://hh.ru/vacancy/91870295",
-    "requirement": "Опыт работы в Web от трех лет на позиции <highlighttext>Python</highlighttext> Developer (или опыт работы на трех полноценных коммерческих проектах) . ",
-    "salary_from": 0,
-    "salary_to": 0,
-    "currency": "Not specified"
+    "employer": "Пассворк",
+    "url": "https://hh.ru/vacancy/91951976",
+    "requirement": "Знание операционной системы Linux. Опыт работы с MongoDB. Опыт автоматизации на <highlighttext>Python</highlighttext> с использованием Selenium WebDriver. Опыт работы с CI...",
+    "salary_from": 90000,
+    "salary_to": null,
+    "currency": "RUR"
   },
   {
     "id": "91301493",
@@ -836,14 +814,25 @@
     "currency": "RUR"
   },
   {
-    "id": "89121700",
-    "title": "Разработчик БПЛА",
+    "id": "91870295",
+    "title": "Python Developer",
     "area": "Москва",
-    "employer": "Лаборатория Наносемантика",
-    "url": "https://hh.ru/vacancy/89121700",
-    "requirement": "Начальные знания в электронике и радиотехнике. Опыт работы с <highlighttext>Python</highlighttext>: NumPy, Scipy, Matplotlib. Уверенный пользователь Linux. Знание принципа работы прошивок...",
-    "salary_from": 200000,
-    "salary_to": 230000,
+    "employer": "Сибериан.Про",
+    "url": "https://hh.ru/vacancy/91870295",
+    "requirement": "Опыт работы в Web от трех лет на позиции <highlighttext>Python</highlighttext> Developer (или опыт работы на трех полноценных коммерческих проектах) . ",
+    "salary_from": 0,
+    "salary_to": 0,
+    "currency": "Not specified"
+  },
+  {
+    "id": "91938116",
+    "title": "Стажер-программист Python",
+    "area": "Электросталь",
+    "employer": "Ассигна",
+    "url": "https://hh.ru/vacancy/91938116",
+    "requirement": "Опыт программирования на <highlighttext>Python</highlighttext> (backend + frontend). Опыт использования фреймворков Django, Flask. Опыт использования библиотек SQLAlchemy, Beautiful Soup. ",
+    "salary_from": 40000,
+    "salary_to": null,
     "currency": "RUR"
   },
   {
@@ -858,23 +847,23 @@
     "currency": "Not specified"
   },
   {
+    "id": "89121700",
+    "title": "Разработчик БПЛА",
+    "area": "Москва",
+    "employer": "Лаборатория Наносемантика",
+    "url": "https://hh.ru/vacancy/89121700",
+    "requirement": "Начальные знания в электронике и радиотехнике. Опыт работы с <highlighttext>Python</highlighttext>: NumPy, Scipy, Matplotlib. Уверенный пользователь Linux. Знание принципа работы прошивок...",
+    "salary_from": 200000,
+    "salary_to": 230000,
+    "currency": "RUR"
+  },
+  {
     "id": "91699667",
     "title": "Blockchain developer for MEV",
     "area": "Москва",
     "employer": "НВ-АСУпроект",
     "url": "https://hh.ru/vacancy/91699667",
     "requirement": "Опыт работы в команде разработки комплексного ПО. Знание дополнительных языков программирования <highlighttext>Python</highlighttext>, JavaScript. Опыт работы с блокчейн нодами. ",
-    "salary_from": 0,
-    "salary_to": 0,
-    "currency": "Not specified"
-  },
-  {
-    "id": "91743685",
-    "title": "QA тестировщик (геймдев)",
-    "area": "Саратов",
-    "employer": "Парамонов Дмитрий",
-    "url": "https://hh.ru/vacancy/91743685",
-    "requirement": "Участие в плей тестах или ОБТ/ЗБТ на каких либо проектах. Знание программирования (<highlighttext>Python</highlighttext> или С++). Работа в аналогичной должности.",
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
@@ -891,23 +880,12 @@
     "currency": "Not specified"
   },
   {
-    "id": "91893880",
-    "title": "Backend программист",
-    "area": "Казань",
-    "employer": "ХайТек Плант",
-    "url": "https://hh.ru/vacancy/91893880",
-    "requirement": "Опыт разработки вэб <highlighttext>Python</highlighttext> framework Django , PostGreSQL. - Знание Angular, TypeScript приветствуется. - Желание развиваться. Желательно но не обязательно: знание систем автоматизации...",
-    "salary_from": 70000,
-    "salary_to": 100000,
-    "currency": "RUR"
-  },
-  {
-    "id": "91907386",
-    "title": "Дата-аналитик",
-    "area": "Алматы",
-    "employer": "Банк ЦентрКредит",
-    "url": "https://hh.ru/vacancy/91907386",
-    "requirement": "Высшее образование. Опыт работы на аналогичной позиции не менее 1 года. Отличные коммуникативные навыки. Желание расти и развиваться внутри компании.",
+    "id": "91743685",
+    "title": "QA тестировщик (геймдев)",
+    "area": "Саратов",
+    "employer": "Парамонов Дмитрий",
+    "url": "https://hh.ru/vacancy/91743685",
+    "requirement": "Участие в плей тестах или ОБТ/ЗБТ на каких либо проектах. Знание программирования (<highlighttext>Python</highlighttext> или С++). Работа в аналогичной должности.",
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
@@ -922,6 +900,17 @@
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
+  },
+  {
+    "id": "91893880",
+    "title": "Backend программист",
+    "area": "Казань",
+    "employer": "ХайТек Плант",
+    "url": "https://hh.ru/vacancy/91893880",
+    "requirement": "Опыт разработки вэб <highlighttext>Python</highlighttext> framework Django , PostGreSQL. - Знание Angular, TypeScript приветствуется. - Желание развиваться. Желательно но не обязательно: знание систем автоматизации...",
+    "salary_from": 70000,
+    "salary_to": 100000,
+    "currency": "RUR"
   },
   {
     "id": "91740789",
@@ -944,6 +933,17 @@
     "salary_from": null,
     "salary_to": 60000,
     "currency": "RUR"
+  },
+  {
+    "id": "91907386",
+    "title": "Дата-аналитик",
+    "area": "Алматы",
+    "employer": "Банк ЦентрКредит",
+    "url": "https://hh.ru/vacancy/91907386",
+    "requirement": "Высшее образование. Опыт работы на аналогичной позиции не менее 1 года. Отличные коммуникативные навыки. Желание расти и развиваться внутри компании.",
+    "salary_from": 0,
+    "salary_to": 0,
+    "currency": "Not specified"
   },
   {
     "id": "91687842",
@@ -1001,17 +1001,6 @@
     "currency": "RUR"
   },
   {
-    "id": "91881364",
-    "title": "Младший системный администратор / Эникейщик",
-    "area": "Санкт-Петербург",
-    "employer": "StudyWorld",
-    "url": "https://hh.ru/vacancy/91881364",
-    "requirement": "Опыт работы на соответствующей или смежной должности будет преимуществом. Знание операционных систем семейства Windows, Linux. Знание основных принципов настройки сети. ",
-    "salary_from": 50000,
-    "salary_to": null,
-    "currency": "RUR"
-  },
-  {
     "id": "91745879",
     "title": "Инженер нейронных сетей",
     "area": "Санкт-Петербург",
@@ -1030,6 +1019,17 @@
     "url": "https://hh.ru/vacancy/91663769",
     "requirement": "Опыт построения диаграмм (UML/BPMN или иное). Опыт работы с Git. Владение <highlighttext>Python</highlighttext> (структуры данных, пакеты для обработки данных). ",
     "salary_from": 150000,
+    "salary_to": null,
+    "currency": "RUR"
+  },
+  {
+    "id": "91881364",
+    "title": "Младший системный администратор / Эникейщик",
+    "area": "Санкт-Петербург",
+    "employer": "StudyWorld",
+    "url": "https://hh.ru/vacancy/91881364",
+    "requirement": "Опыт работы на соответствующей или смежной должности будет преимуществом. Знание операционных систем семейства Windows, Linux. Знание основных принципов настройки сети. ",
+    "salary_from": 50000,
     "salary_to": null,
     "currency": "RUR"
   },
@@ -1056,17 +1056,6 @@
     "currency": "USD"
   },
   {
-    "id": "91757230",
-    "title": "Python разработчик",
-    "area": "Москва",
-    "employer": "РНКБ Банк (ПАО)",
-    "url": "https://hh.ru/vacancy/91757230",
-    "requirement": "Коммерческий опыт разработки на <highlighttext>Python</highlighttext> 1-2 года. Опыт проектирования и реализации REST API на <highlighttext>Python</highlighttext> (Flask / FastAPI). ",
-    "salary_from": 0,
-    "salary_to": 0,
-    "currency": "Not specified"
-  },
-  {
     "id": "91681124",
     "title": "AI/ML Engineer",
     "area": "Москва",
@@ -1078,6 +1067,28 @@
     "currency": "Not specified"
   },
   {
+    "id": "91757230",
+    "title": "Python разработчик",
+    "area": "Москва",
+    "employer": "РНКБ Банк (ПАО)",
+    "url": "https://hh.ru/vacancy/91757230",
+    "requirement": "Коммерческий опыт разработки на <highlighttext>Python</highlighttext> 1-2 года. Опыт проектирования и реализации REST API на <highlighttext>Python</highlighttext> (Flask / FastAPI). ",
+    "salary_from": 0,
+    "salary_to": 0,
+    "currency": "Not specified"
+  },
+  {
+    "id": "91270643",
+    "title": "Инженер IT инфраструктуры (Modern workplace)",
+    "area": "Санкт-Петербург",
+    "employer": "Меркатор",
+    "url": "https://hh.ru/vacancy/91270643",
+    "requirement": "Владение скриптовыми языками (например, PowerShell, <highlighttext>Python</highlighttext>) для автоматизации рутинных задач и управления конфигурацией. Опыт работы с инструментами мониторинга (например, Nagios...",
+    "salary_from": 300000,
+    "salary_to": null,
+    "currency": "RUR"
+  },
+  {
     "id": "91666869",
     "title": "QA Engineer",
     "area": "Ростов-на-Дону",
@@ -1087,16 +1098,5 @@
     "salary_from": 0,
     "salary_to": 0,
     "currency": "Not specified"
-  },
-  {
-    "id": "91764768",
-    "title": "Junior Программист/Разработчик Python",
-    "area": "Новосибирск",
-    "employer": "Телеком-Инжиниринг",
-    "url": "https://hh.ru/vacancy/91764768",
-    "requirement": "Знание английского языка достаточное для чтения технической документации. Опыт разработки приложений на <highlighttext>Python</highlighttext>/Qt/C++/C#. Желателен опыт работы с.",
-    "salary_from": 60000,
-    "salary_to": null,
-    "currency": "RUR"
   }
 ]
