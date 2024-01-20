@@ -1,4 +1,5 @@
 import sys
+
 from Utils.classes import HeadHunterAPI, SuperJobAPI
 from Utils.json_saver import JSONSaver
 
@@ -21,10 +22,16 @@ def user_interaction():
     selected_platforms = []
 
     for name, platform in platforms.items():
-        print(f"Do you want to get vacancies from this platform ? --> {name.title()}? (Yes/No)")
-        answer = input()
-        if answer.lower() == "yes":
-            selected_platforms.append(platform)
+        while True:
+            print(f"Do you want to get vacancies from this platform ? --> {name.title()}? (Yes/No)")
+            answer = input()
+            if answer.lower() == "yes":
+                selected_platforms.append(platform)
+                break
+            elif answer.lower() == "no":
+                break
+            else:
+                print("No such command :(, please enter Yes or No")
 
     vacancies = []
 
