@@ -1,8 +1,10 @@
 import os
 from abc import ABC, abstractmethod
+
 import requests
-from exceptions import ParsingError
 from dotenv import load_dotenv
+
+from exceptions import ParsingError
 
 
 class AbstractAPi(ABC):
