@@ -1,6 +1,7 @@
-from configparser import ParsingError
-import requests
 from abc import ABC, abstractmethod
+from configparser import ParsingError
+
+import requests
 
 
 class AbstractAPI(ABC):
@@ -69,10 +70,4 @@ class HeadHunterAPI(AbstractAPI):
                 print(f"Loaded vacancies: {len(page_vacancies)}")
             if len(page_vacancies) == 0:
                 break
-
-hh = HeadHunterAPI
-print(hh.get_request)
-# class SuperJobAPI(AbstractAPI, ABC):
-#     def get_vacancies(self):
-#         # реализация запроса к API SuperJob
-#         pass
+        return self.vacancies
